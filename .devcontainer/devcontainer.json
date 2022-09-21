@@ -5,6 +5,7 @@
     // Additional Extensions Here
   ],
   "onCreateCommand" : "echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
+  "postCreateCommand": "pip3 install -r requirements.txt"
 }
 
 // DevContainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
