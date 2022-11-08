@@ -1,5 +1,5 @@
 # Machine Learning with Python: Logistic Regression 
-This is the repository for the LinkedIn Learning course Machine Learning with Python: Logistic Regression . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Machine Learning with Python: Logistic Regression. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Machine Learning with Python: Logistic Regression ][lil-thumbnail-url]
 
