@@ -1,7 +1,7 @@
 # Machine Learning with Python: Logistic Regression 
 This is the repository for the LinkedIn Learning course Machine Learning with Python: Logistic Regression. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![Machine Learning with Python: Logistic Regression ][lil-thumbnail-url]
+![1666987773227](https://user-images.githubusercontent.com/25848438/200744832-b3c06517-af4a-4dea-9131-fc05d33e866f.jpeg)
 
 Are you looking for a practical way to use machine learning to solve complex real-world problems? Logistic regression is an approach to supervised machine learning that models selected values to predict possible outcomes. In this course, Notre Dame professor Frederick Nwanganga provides you with a step-by-step guide on how to build a logistic regression model using Python. Learn hands-on tips for collecting, exploring, and transforming your data before you even get started. By the end of this course, you’ll have the technical skills to know when and how to design, build, evaluate, and effectively manage a logistic regression model all on your own.<br><br>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started.
 
@@ -30,6 +30,5 @@ Frederick Nwanganga
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/frederick-nwanganga?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFoo2MgD4SlGw/learning-public-crop_675_1200/0/1666987773227?e=1667955600&v=beta&t=l1zM021mP2to79JuY-ZCtCT4ixziL9zEvsxniekbFQQ
 [gcs-video-url]: https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course
 
